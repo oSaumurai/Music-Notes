@@ -13,3 +13,5 @@ Dominant: V
 
 I6 can typically used connect ii or IV
 V6 i or vi
+
+iii always go IV or vi
