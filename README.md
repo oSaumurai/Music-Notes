@@ -1,4 +1,14 @@
 # Music-Notes
+WaveTone
+
+xomu，synthion，couple n, B3LLA
+hyleo, inverse silence
+
+
+//Genre and Template
+http://www.ttded.com/category/projects-preset/projects
+
+
 Links:
 Sound-sonace How to make sound in serum
 https://www.youtube.com/channel/UCAAsUXCwZZvx97PVO_nb3LA/videos
